@@ -2,4 +2,4 @@
 Depo for DL1 group7 Project
 
 
-Version C is now obsolete, go to version D, it has better visuals.
+Latest version is E, it can hanlde 2 Time-Series as inputs.
